@@ -18,6 +18,7 @@ A real-time chat application which run on local server.
 - Start the XAMPP server by start `Apache` server and `MySQL` database from XAMPP Control Panel.
 - Wait for 5 minutes to start server smoothly.
 - Open any browser and type :
+  
   ```
   localhost/chatapp/login.php
   ```
